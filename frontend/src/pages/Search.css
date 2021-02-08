@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Search {
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+  display: flex;
+  flex-direction: column;
+}
+
+.empty {
+  min-height: 20vh;
+}
